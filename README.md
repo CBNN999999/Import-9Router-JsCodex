@@ -19,6 +19,24 @@
 > [!IMPORTANT]
 > Công cụ ghi vào cơ sở dữ liệu 9router trên máy của bạn. Trước khi nhập, công cụ kiểm tra dữ liệu và tạo bản sao lưu DB. Không bao giờ đưa tệp OAuth JSON/ZIP lên GitHub.
 
+## Xem trước giao diện / Interface preview
+
+<div align="center">
+  <a href="docs/screenshots/ui-vietnamese.png">
+    <img src="docs/screenshots/ui-vietnamese.png" alt="Giao diện 9router Codex Importer bằng tiếng Việt" width="48%">
+  </a>
+  <a href="docs/screenshots/ui-english.png">
+    <img src="docs/screenshots/ui-english.png" alt="9router Codex Importer interface in English" width="48%">
+  </a>
+</div>
+
+<p align="center">
+  <strong>Tiếng Việt</strong> &middot; Chọn <strong>VI / EN</strong> và giao diện <strong>Sáng / Tối</strong> ở góc trên bên phải.<br>
+  <strong>English</strong> &middot; Switch <strong>VI / EN</strong> and <strong>Light / Night</strong> from the upper-right corner.
+</p>
+
+Nhấp vào ảnh để xem kích thước đầy đủ. / Click an image to view it at full size.
+
 <a id="mo-file-nao"></a>
 
 ## Mở File Nào?
