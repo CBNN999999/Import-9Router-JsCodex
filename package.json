@@ -1,0 +1,19 @@
+{
+  "name": "9router-chatgpt-codex-importer",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Bulk-import ChatGPT/Codex OAuth JSON files into a 9router instance. Pure Node core, no npm dependencies.",
+  "main": "importer-core.js",
+  "bin": {
+    "9router-codex-import": "import.js",
+    "9router-codex-gui": "gui.js"
+  },
+  "scripts": {
+    "start": "node import.js",
+    "gui": "node gui.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

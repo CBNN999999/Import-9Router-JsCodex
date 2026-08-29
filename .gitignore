@@ -1,0 +1,24 @@
+node_modules/
+*.log
+
+# Local databases, backups, and temporary writes.
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.bak
+*.bak-*
+*.tmp
+
+# Never publish OAuth exports. Keep only the empty directory marker.
+tokens/*
+!tokens/.gitkeep
+
+# Local credentials and editor/OS files.
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.commit-msg.tmp
